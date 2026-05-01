@@ -18,7 +18,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 logger = logging.getLogger(__name__)
 
 config = Config()
-config.BOT_TOKEN = "8647623541:AAEXP5hSkJb1FtmRLdN8g8RxL3iYKDI4vV0"
+config.BOT_TOKEN = "BOT_TOKEN"
 config.OUTPUT_CHANNEL = "@fycbitusa"
 
 # 🐋 BALİNA AYARLARI
