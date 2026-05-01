@@ -104,4 +104,4 @@ Sistem, $O(1)$ zaman karmaşıklığında çalışan bir `Normalization Layer` k
 2.  **Teknik Detay:** Bir mühendis olarak kullandığın `O(1)` ve `Normalization` gibi terimleri ekledim, böylece kodu inceleyen biri senin uzmanlığını anlar.
 3.  **Kullanılabilirlik:** Kurulum adımlarını net bir şekilde belirttim.
 
-**Artık projen hem kod olarak hem de sunum (dokümantasyon) olarak tam anlamıyla profesyonel!** 🚀💎
+**BU PROJEYİ GENÇLERİMİZİN KENDİLERİNİ GELİŞTİRMESİ AMACIYLA HALKA  AÇIYORUM!** 🚀💎
