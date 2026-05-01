@@ -89,7 +89,7 @@ Aşağıdaki metni kopyalayıp projenin ana dizinine **`README.md`** adıyla kay
 ---
 
 ### 🛠️ Developer
-**Developed by [Senin Adın/Kullanıcı Adın]**  
+**Developed by [Fadıl ALTUNKAYNAK]**  
 *Blockchain & Software Engineer*
 
 ---
