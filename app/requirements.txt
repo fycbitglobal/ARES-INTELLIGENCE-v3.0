@@ -1,0 +1,15 @@
+# Core HTTP & async
+requests
+aiohttp
+
+# Telegram bot framework
+aiogram
+
+# WebSocket (Binance real-time stream)
+websockets
+
+# Environment variables (.env support)
+python-dotenv
+
+# Optional performance boost (Linux/macOS)
+uvloop
