@@ -122,7 +122,7 @@ class IntelligenceManager:
 async def main():
     logging.basicConfig(level=logging.INFO)
     config = Config()
-    config.BOT_TOKEN = "8647623541:AAEXP5hSkJb1FtmRLdN8g8RxL3iYKDI4vV0"
+    config.BOT_TOKEN = "YOURBOT-TOKEN"
     config.OUTPUT_CHANNEL = "@fycbitusa"
 
     telegram = TelegramClient(config.BOT_TOKEN)
