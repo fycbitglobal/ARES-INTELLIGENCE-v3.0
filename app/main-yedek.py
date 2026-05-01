@@ -11,8 +11,8 @@ logger = logging.getLogger(__name__)
 config = Config()
 
 # 🔥 ANA AYARLAR
-config.BOT_TOKEN = "8647623541:AAEXP5hSkJb1FtmRLdN8g8RxL3iYKDI4vV0"
-config.OUTPUT_CHANNEL = "@fycbit"
+config.BOT_TOKEN = "BOT_TOKEN"
+config.OUTPUT_CHANNEL = "@fycbitusa"
 config.BINANCE_WS_URL = "wss://stream.binance.com:9443/ws"
 
 # 🐋 COIN BAZLI LİMİTLER (Dolar cinsinden)
